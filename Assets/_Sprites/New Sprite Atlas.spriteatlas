@@ -44,7 +44,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 90c638dec2828af48881bd25ed6a71a9, type: 3}
   m_PackedSpriteNamesToIndex:
   - Circle
-  - slice3
+  - Single player Arena
   - Square
   - Paddle_2
   - Paddle

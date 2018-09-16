@@ -10,6 +10,7 @@ public class FlipperController : MonoBehaviour {
     [Range(0, 65)]
     public int MaxAngle = 54;
     public Rigidbody2D LeftFlipper, RightFlipper;
+    public PlayerEnum Player = PlayerEnum.PLAYER_ONE;
     #endregion
 
     #region Private Variables
